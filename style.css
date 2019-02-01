@@ -3,6 +3,10 @@ body {
     color: white
 }
 
+.header {
+    position: fixed;
+    width: 100%
+}
 
 .container-1 {
     color: white;
@@ -15,6 +19,7 @@ body {
 }
 
 .container-2 {
+    background: black;
     display: flex;
     justify-content: center;
     align-content: center
